@@ -1,2 +1,2 @@
 console.log("Hello")
-consloe.log("GitHub")
+console.log("GitHub")
